@@ -1,5 +1,5 @@
 <h1 align="center"><img src="./assets/logo.gif" width="30px"> Lyba Music Bot <img src="./assets/logo.gif" width="30px"></h1>
-> NOTE: Lavalink is needed for music functionality. You need to have a working Lavalink server to make the bot work.
+NOTE: Lavalink is needed for music functionality. You need to have a working Lavalink server to make the bot work.
 
 # Lyba Music 𝄞
 [![forthebadge](https://forthebadge.com/images/badges/ages-12.svg)](https://forthebadge.com)
