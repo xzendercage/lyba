@@ -7,9 +7,9 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
 
-## 📝 Tutorial
+## 📝 Tutorial(Soon)
 
-## 📝 [Support Server](https://discord.gg/yD9WqgyN)
+## 📝 [Support Server](https://discord.gg/JNbspXYX)
 
 If you have major coding issues with this bot, please join and ask for help.
 
