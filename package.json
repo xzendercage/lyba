@@ -4,7 +4,7 @@
   "description": "Very simple discord music bot with the discord.js with Song Name playing. It can able to play music with the song name",
   "main": "index.js",
   "scripts": {
-    "install-node-v14": "wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash && export NVM_DIR=\"$([ -z \"${XDG_CONFIG_HOME-}\" ] && printf %s \"${HOME}/.nvm\" || printf %s \"${XDG_CONFIG_HOME}/nvm\")\" && [ -s \"$NVM_DIR/nvm.sh\" ] && \\. \"$NVM_DIR/nvm.sh\" && nvm install 14 && nvm use 14",
+    "install-node-v19": "wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash && export NVM_DIR=\"$([ -z \"${XDG_CONFIG_HOME-}\" ] && printf %s \"${HOME}/.nvm\" || printf %s \"${XDG_CONFIG_HOME}/nvm\")\" && [ -s \"$NVM_DIR/nvm.sh\" ] && \\. \"$NVM_DIR/nvm.sh\" && nvm install 19 && nvm use 19",
     "start": "node index",
     "rm-logs": "rm Logs.log",
     "format": "prettier --write .",
@@ -24,7 +24,7 @@
     "music",
     "discord-music"
   ],
-  "author": "SudhanPlayz",
+  "author": "SawasAly",
   "license": "SEE LICENSE IN LICENSE",
   "bugs": {
     "url": "https://github.com/xzendercage/lyba/issues"
@@ -33,7 +33,7 @@
   "dependencies": {
     "colors": "^1.4.0",
     "cpu-stat": "^2.0.1",
-    "discord.js": "^12.5.3",
+    "discord.js": "^14.6.0",
     "discordjs-activity": "1.4.1",
     "dotenv": "^16.0.1",
     "erela.js": "^2.3.2",
